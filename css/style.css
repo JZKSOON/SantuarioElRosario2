@@ -77,7 +77,7 @@ h1, h2, h3, .brand { font-family: 'Cinzel', serif; }
   justify-content: center;
   text-align: center;
   padding: 80px 24px;
-  background: url('../img/mariposas.jpe') center/cover no-repeat;
+  background: url('../img/mariposas.jpg') center/cover no-repeat;
   color: var(--white);
 }
 
